@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mi aplicación</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_abouthis">About this</string>
+    <string name="about.title_activity">Todo Sobre...</string>
+    <string name="about.action_share">Compartir</string>
+    <string name="about.title_license">Licencia de uso para</string>
+    <string name="about.license_content">
+  <![CDATA[
+    <b>Name:</b> %1$s<br/>
+    <b>UIDevice:</b> %2$s<br />
+    <b>Adquired:</b> GooglePlay Order<br />
+    <b>Type:</b> Limited license
+  ]]>
+    	</string>
+	<string name="about.license_copyright">Copyright © 2014-2015 Todos los Derechos Reservados</string>
+    <string name="about.title_rate_and_review">Valorar y comentar</string>
+    <string name="about.title_devoloped_for">Desarrollado por</string>
+	<string name="about.label_studio">Estudio</string>
+	<string name="about.label_developer">Programador</string>
+	<string name="about.label_webpage_support">Página de soporte</string>
+	<string name="about.label_email_support">Email de soporte</string>
+    <string name="about.title_social_network">Redes Sociales</string>
+    <string name="about.title_full_terms_of_use">Términos completos de uso</string>
+    <string name="about.full_terms_of_use">Reservados todos los derechos. No nos hacemos responsables de ningún daño producido por el uso de este software (Incluyendo, pero no limitado a, daños por pérdida de beneficios o confidencial u otra información, por la interrupción de negocio, por pérdida de la vida privada, para la corrupción, daños y pérdida de datos o programas, por el incumplimiento de cualquiera de las funciones, incluido el deber legal, debe ser de buena fe o el deber de ciudadano responsable, por negligencia, por pérdidas económicas,y para cualquier tipo de perdida) que surja relacionado con el uso o in-capacitación de usar el software, la prestación o no prestación de soporte u otros servicios y contenido relacionado a través del software no derivadas del uso del software u otros bajo la conexión con cualquier tipo de disposición de este acuerdo, que surja cualquier incumplimiento de contrato o cualquier agravio (incluyendo negligencia, mal, obligación o responsabilidad escrita), o cualquier otro incumplimiento de una obligación legal, o al incumplimiento de la garantía del titular del derecho o cualquiera de sus socios, han sido advertidos de la posibilidad de tales daños.
+\n\nUsted acepta que en caso titular y/o sus socios se encuentran ante la responsabilidad del titular del derecho, y sus socios estará limitado por los costes del software. En ningún caso la responsabilidad del titular del derecho, y sus socios exceda los honorarios pagados por el software (en caso de ser aplicables)
+nada en este acuerdo excluye o limita cualquier reclamación por muerte y lesiones corporales. Además en el evento cualquier responsabilidad, la exclusión o limitación en este acuerdo no pueden quedarse fuera o limitarse en virtud a la legislación vigente, por lo que renuncia, exclusión o limitación no se aplicarán a usted y seguirán estando sujeto por todas las responsabilidades pendientes, exclusiones y limitaciones.</string>
+	<string name="about.alt_logo">Logo de la aplicación</string>
+	<string name="about.alt_icon">Icono</string>
+</resources>
