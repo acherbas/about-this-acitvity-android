@@ -1,0 +1,9 @@
+<h3>VERSION 1.0.0 <small><font color="grey">August 2016</font></small></h3>
+<p>
+    • <b>New!</b> Use DasClock with Android 4.2, Daydream feature: great for use with desktop<br />
+    • <b>New!</b> Option to specify a manual location for weather<br />
+    • <b>Fixed</b> a few issues related to all-day-events<br />
+    • <b>Fixed</b> a few issues over UI<br />
+    • <b>Permision</b> Requiere a location permision for update position
+</p>
+

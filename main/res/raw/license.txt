@@ -1,0 +1,32 @@
+<b>Importante. Lea detenidamente.</b>
+
+<p>
+%you_name% Software en adelante (“el licenciante”)
+Persona que usa el software en adelante ("Usuario final")
+</p>
+
+<h2>Contrato de Licencia de Software de Usuario Final (“EULA”)</h2>
+<h3>1. Términos iniciales.
+<p>
+Este contrato de licencia de software de usuario final (EULA, por sus siglas en inglés) es un acuerdo vinculante entre el usuario titular de la licencia (“Usuario final”) y el licenciante, que expone los términos y condiciones que rigen el uso y el funcionamiento de los productos de software de dispositivos moviles incluyendo tabletas y computadoras propiedad de el licenciante (el “Software”) y las especificaciones técnicas escritas para el uso y el funcionamiento del Software (la “Documentación”). Donde el sentido y el contexto lo permitan, las referencias en este EULA al Software incluyen la Documentación. Al descargar e instalar, copiar o, en otras palabras, usar el Software y/o aceptar este EULA, el Usuario final acuerda reconocer como vinculante los términos y condiciones de este EULA. Si el Usuario final no acuerda ni acepta los términos de este EULA, es posible que el Usuario final no tenga acceso ni pueda usar el Software.
+</p>
+<h3>2. Licencia.</h3>
+<p>
+el licenciante otorga al usuario final un derecho personal, no exclusivo, no transferible y no sublicenciable para utilizar el software en forma de código-objeto para la instalación y el uso en un solo dispositivo con un sistema operativo adecuado.
+</p>
+<h3>3. Restricciones.</h3>
+<p>
+La usuario final no está autorizada a : (a) copiar, reproducir , distribuir o reproducir de ninguna otra manera el software o partes del mismo, excepto para fines de archivo de recuperación de datos o , (b) vender, prestar , arrendar , licenciar , sublicenciar , distribuir, ceder, transferir o traspasar de otra forma el software o parte de este a un tercero ,(c) modificar o traspasar el software o utilizarlo con fines de desarrollo propios ;(d) combinar o fusionar el software con otro software, a descompilar el software de ninguna manera, a desmontar , realizar ingeniería inversa del software o de otro modo con la intención de tratar de deducir, identificar o conocer el código fuente, los algoritmos o la propiedad intelectual contenida en el mismo,(e) para hacer uso de las soluciones técnicas contenidas en el software para otros fines.
+<br /><br />
+SALVO POR LA GARANTÍA LIMITADA, ESTABLECIDA ANTERIORMENTE, EL SOFTWARE SE PROPORCIONA “COMO TAL”, SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUSO, ENTRE OTRAS, CUALQUIER GARANTÍA IMPLÍCITA QUE DICTE QUE EL SOFTWARE NO TIENE DEFECTOS, ES COMERCIALIZABLE O APTO PARA UN PROPÓSITO PARTICULAR. NINGUNA INFORMACIÓN O ASESORÍA, ORAL O ESCRITA, PROPORCIONADA POR el licenciante O UN TERCERO QUE INCLUYE, ENTRE OTROS, CUALQUIER DISTRIBUIDOR O REVENDEDOR DE el licenciante, DEBERÁ CREAR UNA GARANTÍA ADEMÁS DE LA GARANTÍA LIMITADA O, DE NINGÚN MODO, AUMENTAR EL ALCANCE DE ÉSTA.
+<br /><br />
+Bajo ninguna circunstancia, el licenciante, sus afiliados, revendedores, o distribuidores o suministradores serán responsables de cualquier daño indirecto, especial, incidental o resultante que surja del uso o la incapacidad para usar el Software, incluso, entre otros, los daños por pérdida de ganancias, pérdida de imagen comercial, interrupción del trabajo, falla o mal funcionamiento del dispositivo, o cualquier otra pérdida o daño comercial, aún si se le informó sobre la posibilidad de esto.
+</p>
+<h3>4. Licencia con periodo limitado</h3>
+<p>
+Una Licencia designada como una “Licencia con periodo limitado” en un Documento de transacción autoriza al Usuario final a usar una (1) copia del Software en un entorno de producción, en la ubicación del Usuario final, durante un periodo determinado. El periodo determinado para una “Licencia con periodo limitado” comienza inmediatamente al generarse la clave de licencia.
+</p>
+<h3>5. Duración y Terminación.</h3>
+<p>
+El derecho de uso de la licencia comienza con la aceptación de los términos de esta licencia . el licenciante tiene derecho a concluir este acuerdo y el derecho de uso del usuario final relativa al mismo en cualquier momento y de forma unilateral y sin previo aviso, informando al Titular de que los servicios del software no se pueden ofrecer por más tiempo. El acuerdo de licencia termina con efecto inmediato si el usuario final ha incumplido alguna de sus obligaciones bajo este acuerdo. Una vez haya finalizado el acuerdo, el usuario final debe dar fin al uso del software de forma inmediata y debe de la misma manera proceder a la desinstalación y borrado de todas las copias del software.
+</p>

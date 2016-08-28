@@ -1,0 +1,9 @@
+<h3>Google Android Support Library</h3>
+<tt>
+The Android Support Library package is a set of code libraries that provide backward-compatible versions of Android framework APIs as well as features that are only available through the library APIs.
+</tt>
+<h3>AppIntro</h3>
+<p>https://github.com/PaoloRotolo/AppIntro</p>
+<tt>AppIntro by Paolo Rotolo: Make a cool intro for your Android app.
+Library under Apache license 2.0 January 2004
+</tt>
